@@ -56,3 +56,4 @@ patient_symptom = record_and_transcribe()
 
 if patient_symptom:
     print(f"인식된 텍스트: {patient_symptom}")
+//흠ㅎ므
